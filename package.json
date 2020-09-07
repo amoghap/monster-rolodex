@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amoghap.github.io/Complete-React/monsters-rolodex",
+  "homepage": "https://amoghap.github.io/monster-rolodex",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react": "^16.8.6",
